@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HTML de mi cirruculum</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
+      type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic"
+      rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Playball" rel="stylesheet"
+      type="text/css">
+  </head>
+  <body>
+    <div class="wrapper" id="wrapper">
+      <header>
+        <div class="banner row" id="banner">
+          <div class="parallax text-center" style="background-image: url(img/1b.jpg);">
+            <div class="parallax-pattern-overlay">
+              <div class="container text-center" style="height: 700px; padding-top: 300px;">
+                <a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s"
+                    wow-data-duration="0.9s" src="img/2b.png" alt="" style="width: 200px; margin-left: 25px;"></a>
+                <h2 class="intro"><a href="index.html">Curriculum</a></h2>
+                <h3 class="intro"><a href="index.html"> Sergio Revilla Grau</a></h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="menu" style="top: 900px; left: -16px; height: 197px;">
+          <div class="navbar-wrapper">
+            <div class="container">
+              <div class="navwrapper">
+                <div class="navbar navbar-inverse navbar-static-top">
+                  <div class="container">
+                    <div class="navArea">
+                      <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav" style="margin-top: 0px;">
+                          <li class="menuItem active"><a href="#wrapper">principal</a></li>
+                          <li class="menuItem"><a href="#aboutus" style="margin-top: -36px; height: 55px;">sobre
+                              mi</a></li>
+                          <li class="menuItem"><a href="#specialties">habilidades</a></li>
+                          <li class="menuItem"><a href="#gallery">galeria</a></li>
+                          <li class="menuItem"><a href="#feedback">educación</a></li>
+                          <li class="menuItem"><a href="#contact">Contacto</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <section class="aboutus" id="aboutus">
+        <div class="container">
+          <div class="heading text-center">
+            <h2 style="margin-top: -106.202px; height: 60.5522px; margin-left: 30px;">Sobre
+              mi</h2>
+            <h3 style="margin-top: 10.9512px; height: 90.5821px;"> Como persona
+              organizada y con una gran motivación, soy capaz de adaptarme a
+              cualquier circunstancia y dar siempre lo mejor de mí en cualquier
+              proyecto, al mismo tiempo que me esfuerzo por trabajar en equipo y
+              fomentar valores como los del compañerismo. </h3>
+            <p><br>
+            </p>
+            <p><br>
+            </p>
+            <p><br>
+            </p>
+            <p><br>
+            </p>
+            <p><br>
+            </p>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="papers text-center" style="width: 664px; margin-left: 266px; height: 561px; margin-top: -58px;">
+                <img src="img/team/1b.jpg" alt="ser" style="height: 322px; margin-top: 16px;"
+                  title="ser" longdesc="img/team/1b.jpg"><br>
+                <a href="#"><b>¿Porque siendo geográfo entiendo tan necesario
+                    programar?</b></a>
+                <p> Actualmente nos encontramos en un contexto en el cual el
+                  problema no esta en el acceso a la información. Realmente el
+                  problema radica en poseer los conocimientos y herramientas
+                  necesarias para tratar dicha información de manera eficaz y en
+                  el menor tiempo posible </p>
+              </div>
+            </div>
+            <section class="specialties" id="specialties" style="margin-top: 366px;">
+              <div class="container">
+                <div class="heading text-center">
+                  <h2><br>
+                  </h2>
+                  <br>
+                  <h2 style="height: 107px; margin-top: 32.6667px; width: 1012.67px;">Habilidades</h2>
+                </div>
+              </div>
+              <div class="container" style="margin-top: 40px;">
+                <div class="row">
+                  <div class="col-md-6 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s"
+                    "="">
+                    <div class="skill ">
+                      <div class="progress-wrap " style="margin-left: 129.5px; width: 960.333px; margin-top: -108.433px;">
+                        <h3 style="text-align: left;">HTML</h3>
+                        <div class="progress " style="text-align: left;">
+                          <div class="progress-bar color1 " role="progressbar "
+                            aria-valuenow="40 " aria-valuemin="0 " aria-valuemax="100 "
+                            style="width: 85%;"> <span class="bar-width ">75%</span>
+                          </div>
+                        </div>
+                        <div class="skill ">
+                          <div class="progress-wrap ">
+                            <h3 style="text-align: left;">CSS</h3>
+                            <div class="progress " style="text-align: left;">
+                              <div class="progress-bar color2 " role="progressbar "
+                                aria-valuenow="40 " aria-valuemin="0 " aria-valuemax="100 "
+                                style="width: 85%;"> <span class="bar-width ">70%</span>
+                              </div>
+                            </div>
+                            <div class="progress-wrap " style="text-align: left;">
+                              <h3>JavaScript</h3>
+                              <div class="progress ">
+                                <div class="progress-bar color3 " role="progressbar "
+                                  aria-valuenow="20 " aria-valuemin="0 " aria-valuemax="100 "
+                                  style="width: 95%;"> <span class="bar-width ">65%</span>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="progress-wrap ">
+                              <h3 style="text-align: left;">Leaflet</h3>
+                              <div class="progress " style="text-align: left;">
+                                <div class="progress-bar color4 " role="progressbar "
+                                  aria-valuenow="20 " aria-valuemin="0 " aria-valuemax="100 "
+                                  style="width: 95%;"> <span class="bar-width ">65%</span>
+                                </div>
+                              </div>
+                              <div class="progress-wrap " style="text-align: left;">
+                                <h3>SNAP</h3>
+                                <div class="progress ">
+                                  <div class="progress-bar color5 " role="progressbar "
+                                    aria-valuenow="40 " aria-valuemin="0 " aria-valuemax="100 "
+                                    style="width: 85%;"> <span class="bar-width ">70%</span>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="progress-wrap ">
+                                <h3 style="text-align: left;">ArcGis</h3>
+                                <div class="progress " style="text-align: left;">
+                                  <div class="progress-bar color6 " role="progressbar "
+                                    aria-valuenow="60 " aria-valuemin="0 " aria-valuemax="100 "
+                                    style="width: 80%;"> <span class="bar-width ">80%</span>
+                                  </div>
+                                </div>
+                                <div class="progress-wrap ">
+                                  <h3 style="text-align: left;">Paquete office</h3>
+                                  <div class="progress " style="text-align: left;">
+                                    <div class="progress-bar color7 " role="progressbar "
+                                      aria-valuenow="60 " aria-valuemin="0 " aria-valuemax="100 "
+                                      style="width: 80%;"> <span class="bar-width ">80%</span>
+                                    </div>
+                                  </div>
+                                  <div class="progress-wrap " style="text-align: left;">
+                                    <h3>Bluegiffon</h3>
+                                    <div class="progress ">
+                                      <div class="progress-bar color8 " role="progressbar "
+                                        aria-valuenow="60 " aria-valuemin="0 " aria-valuemax="100 "
+                                        style="width: 80%;"> <span class="bar-width ">80%</span>
+                                      </div>
+                                    </div>
+                                    <div class="progress-wrap ">
+                                      <h3>Fusion</h3>
+                                      <div class="progress ">
+                                        <div class="progress-bar color9 " role="progressbar "
+                                          aria-valuenow="60 " aria-valuemin="0 "
+                                          aria-valuemax="100 " style="width: 80%;">
+                                          <span class="bar-width ">80%</span> </div>
+                                      </div>
+                                      <div class="progress-wrap ">
+                                        <h3>QGIS</h3>
+                                        <div class="progress ">
+                                          <div class="progress-bar color10 " role="progressbar "
+                                            aria-valuenow="60 " aria-valuemin="0 "
+                                            aria-valuemax="100 " style="width: 80%;">
+                                            <span class="bar-width ">80%</span>
+                                          </div>
+                                        </div>
+                                        <div class="progress-wrap ">
+                                          <h3>ERDAS</h3>
+                                          <div class="progress ">
+                                            <div class="progress-bar color11 " role="progressbar "
+                                              aria-valuenow="60 " aria-valuemin="0 "
+                                              aria-valuemax="100 " style="width: 80%;">
+                                              <span class="bar-width ">80%</span>
+                                            </div>
+                                          </div>
+                                          <div class="progress-wrap ">
+                                            <h3>Adobe illustrator</h3>
+                                            <div class="progress ">
+                                              <div class="progress-bar color12 "
+                                                role="progressbar " aria-valuenow="80 "
+                                                aria-valuemin="0 " aria-valuemax="100 "
+                                                style="width: 90%;"> <span class="bar-width ">90%</span>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="col-md-6 wow fadeInRight " data-wow-offset="0 "
+                                        data-wow-delay="0.6s " "="" style="height: 79px;">
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div class="container">
+                                    <div class="row" style="width: 1273.67px;"><br>
+                                    </div>
+                                    <div class="row" style="width: 1273.67px;"><br>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="gallery" id="gallery">
+              <div class="container">
+                <div class="heading text-center">
+                  <h2>Portfolio</h2>
+                  <h3 style="margin-top: -0.3333px; height: 90.3333px; margin-left: 14px; width: 964px;">Muchas
+                    veces una imagen vale más que mil palabras.</h3>
+                </div>
+                <div id="grid-gallery" class="grid-gallery">
+                  <section class="grid-wrap">
+                    <ul class="grid">
+                      <li>
+                        <figure> <br>
+                        </figure>
+                      </li>
+                      <li>
+                        <figure> <img src="img/work/ord1.jpg" alt="ordesa" style="width: 275px; margin-left: -20px;"
+                            title="ordesa"> </figure>
+                      </li>
+                      <li>
+                        <figure> <img src="img/work/navatas.jpg" alt="navatas"
+                            style="width: 400px; margin-left: 100px; height: 340px;"
+                            title="navatas"> </figure>
+                      </li>
+                    </ul>
+                    <video style="margin-left: 450px;"
+                    src="img/video.mp4" type="video/mp4" controls>
+                    </video>
+                  </section>
+                </div>
+              </div>
+            </section>
+            <section class="feedback" id="feedback">
+              <div class="container">
+                <div class="heading">
+                  <h2>Education</h2>
+                </div>
+              </div>
+              <div class="container">
+                <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
+                  <div class="text-center">
+                    <div class="hi-icon-wrap hi-icon-effect" style="margin-top: 15px;">
+                      <h4>Master Sig y Teledetección</h4>
+                      <p>Universidad de Zaragoza</p>
+                      <h5>&nbsp;2018-&nbsp; 2019</h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.6s">
+                  <div class="text-center">
+                    <div class="hi-icon-wrap hi-icon-effect">
+                      <h4>Grado en Geografía y Ordenación del territorio</h4>
+                      <p>Universidad de Zaragoza</p>
+                      <h5>&nbsp;2013 - 2017</h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.9s">
+                  <div class="text-center">
+                    <div class="hi-icon-wrap hi-icon-effect">
+                      <h4>Big Data and Envionement</h4>
+                      <p>University of Reading</p>
+                      <h5>&nbsp;2018</h5>
+                      <p><br>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="container">
+                <div class="row"><br>
+                </div>
+                <div class="row"><br>
+                </div>
+                <div class="row"><br>
+                </div>
+                <div class="row"><br>
+                </div>
+                <div class="row"><br>
+                </div>
+              </div>
+            </section>
+            <section class="contact" id="contact">
+              <div class="container">
+                <div class="heading">
+                  <h2 style="margin-top: -47.7522px; height: 40.5522px;">Contacto</h2>
+                  <h2 style="margin-top: -92.5354px; height: 35.6667px;"><br>
+                  </h2>
+                  <h3> </h3>
+                </div>
+              </div>
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-7">
+                    <div class="map"> <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.8719110488891603%2C41.64793556376404%2C-0.8435869216918946%2C41.66258904754412&amp;layer=mapnik&amp;marker=41.655262722377806%2C-0.8577489852905273" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=41.6553&amp;mlon=-0.8577#map=16/41.6553/-0.8577">Ver mapa más grande</a></small> </div>
+                  <div class="contact-info">
+                    <div class="col-md-5">
+                      <h4>Mi Contacto</h4>
+                      <ul>
+                        <li><i class="fa fa-home fa-2x"></i> Carmelo de Betore
+                          Bergua, 50014, Zaragoza </li>
+                        <li><i class="fa fa-phone fa-2x"></i> +656904347</li>
+                        <li><i class="fa fa-envelope fa-2x"></i>
+                          revillauni@gmail.com</li>
+                        <li><i class="fa fa-download fa-2x"></i> descarga mi
+                          información</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-8 col-md-offset-2">
+                    <div id="sendmessage">Su mensaje ha sido enviado, gracias!</div>
+                    <div id="errormessage"></div>
+                    <form action="" method="post" role="form" class="contactForm">
+                      <div class="form-group"> <input name="name" class="form-control"
+                          id="name" placeholder="Your Name" data-rule="minlen:4"
+                          data-msg="Please enter at least 4 chars" type="text">
+                        <div class="validation"></div>
+                      </div>
+                      <div class="form-group"> <input class="form-control" name="email"
+                          id="email" placeholder="Your Email" data-rule="email"
+                          data-msg="Please enter a valid email" type="email">
+                        <div class="validation"></div>
+                      </div>
+                      <div class="form-group"> <input class="form-control" name="subject"
+                          id="subject" placeholder="Subject" data-rule="minlen:4"
+                          data-msg="Please enter at least 8 chars of subject" type="text">
+                        <div class="validation"></div>
+                      </div>
+                      <div class="form-group"> <textarea class="form-control" name="message"
+rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                        <div class="validation"></div>
+                      </div>
+                      <div class="text-center"><button type="submit" class="contact submit">Envia
+                          Mensaje</button></div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <!--footer-->
+            <section class="footer" id="footer">
+              <p class="text-center"> <a href="#wrapper" class="gototop"><i class="fa fa-angle-double-up fa-2x"></i></a>
+              </p>
+              <div class="container">
+                <ul>
+                  <li><a href="https://twitter.com/sergio93992367" target="blank"><i class="fa fa-twitter"></i></a><br>
+                  </li>
+                  <li><a href="https://www.facebook.com/sergio.revillagrau"target="blank"><i class="fa fa-facebook"></i></a><br>
+                  </li>
+                  <li><a href="https://es.linkedin.com/in/sergio-revilla-grau-667317b9"target="blank"><i class="fa fa-linkedin"></i></a><br>
+                  </li>
+                </ul>
+                <p>© MyResume Theme. All Rights Reserved.</p>
+                <div class="credits">
+                  <!--
+            All the links in the footer should remain intact.            You can delete the links only if you purchased the pro version.            Licensing information: https://bootstrapmade.com/license/            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=MyResume          -->
+                  Diseñado por <a href="https://bootstrapmade.com/">BootstrapMade
+                    y mejorado por Sergio Revilla Grau</a> </div>
+              </div>
+            </section>
+          </div>
+          <script src="js/jquery.js"></script>
+          <script src="js/modernizr.js"></script>
+          <!-- Include all compiled plugins (below), or include individual files as needed -->
+          <script src="js/bootstrap.min.js"></script>
+          <script src="js/menustick.js"></script>
+          <script src="js/parallax.js"></script>
+          <script src="js/easing.js"></script>
+          <script src="js/wow.js"></script>
+          <script src="js/smoothscroll.js"></script>
+          <script src="js/masonry.js"></script>
+          <script src="js/imgloaded.js"></script>
+          <script src="js/classie.js"></script>
+          <script src="js/colorfinder.js"></script>
+          <script src="js/gridscroll.js"></script>
+          <script src="js/contact.js"></script>
+          <script src="js/common.js"></script>
+          <script>
+    wow = new WOW({}).init();
+  </script>
+          <script type="text/javascript">
+    jQuery(function($) {
+      $(document).ready(function() {
+        //enabling stickUp on the '.navbar-wrapper' class
+        $('.navbar-wrapper').stickUp({
+          parts: {
+            0: 'banner',
+            1: 'aboutus',
+            2: 'specialties',
+            3: 'gallery',
+            4: 'feedback',
+            5: 'contact'
+          },
+          itemClass: 'menuItem',
+          itemHover: 'active',
+          topMargin: 'auto'
+        });
+      });
+    });
+  </script>
+          <script src="contactform/contactform.js"></script> </div>
+      </section>
+    </div>
+  </body>
+</html>
